@@ -1,10 +1,11 @@
 # springboard-capstone-2
 
-# Airbnb Price & Booking Analysis
+# Data-Driven Analysis of Airbnb Listings: Pricing, Demand & Visual Influence
 
 ## Overview
 Analysis of Airbnb listing data across multiple US cities to identify 
-which features drive pricing and booking rates.
+which features drive pricing and booking rates, and how specific visual attributes impact pricing and performance. Combined quantitative data analysis with computer vision techniques to extract insights from listing imagery. 
+
 
 ## Project Structure
 ```
